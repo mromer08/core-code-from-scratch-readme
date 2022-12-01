@@ -1,4 +1,4 @@
-# How old are you
+# How old are you 👴🏽
 ## Description
 Write pseudocode for an algorithm that calculates the age of a person based on date of birth.
 

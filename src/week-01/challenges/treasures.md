@@ -1,4 +1,4 @@
-# Find the treasure
+# Find the treasure 👑
 ## Description
 We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
 
