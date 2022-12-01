@@ -3,7 +3,7 @@ This challenge is similar to the previous guided challenge, but now you will try
 
 # Solution
 ```python
-Algoritmo myName
+Algoritmo myNameAndAge
 	Imprimir "Manuel Rojas";
 	Imprimir 21;
 FinAlgoritmo
