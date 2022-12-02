@@ -9,6 +9,19 @@ Remember the last challenge about the Mod operator? well, today your task will b
 3. Print ‘Número: x es par’ if the number is even (x is the number the user enters)
 4. Print ‘Número: x es impar’ if the number is odd (x is the number the user enters)
 
+## Solution
+```python
+Algoritmo oddEvenNumber
+	Imprimir "Please type a number to check:";
+	Leer num;
+	Si num%2==0 Entonces
+		Imprimir "Number: ",num," is even";
+	SiNo
+		Imprimir "Number: ",num," is odd";
+	FinSi
+FinAlgoritmo
+```
+
 ## Helpful Resources
 
 1. [Even numbers](https://byjus.com/maths/even-numbers/)
