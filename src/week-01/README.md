@@ -17,6 +17,7 @@
 ### Wednesday
 
 1. [Pizza 🍕](./challenges/pizza.md)
+[hola](./challenges/hot-n-cold.md)
 2. [Hot N Cold 🥶](./challenges/hot-n-cold.md)
 3. [Geometry 📐](./challenges/geometry.md)
 
