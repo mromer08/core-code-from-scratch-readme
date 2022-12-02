@@ -1,8 +1,6 @@
-<a href="https://www.core-code.io/">
-
-![alt text](https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png 'corecodeio')
-
-</a>
+<div style="height: 300px;">
+    <img src="https://mcdn.wallpapersafari.com/medium/91/53/uEimhe.png" alt="banner" style="width: 100%;">
+</div>
 
 <h1 align="center">Fundamentals: Notes & Challenges</h1>
 
