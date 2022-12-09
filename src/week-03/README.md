@@ -30,8 +30,8 @@
 2. [Simple Calculator with Do While](./challenges/e05.md)
 
 ### Thursday
-1. [Multiplication Tables with For](./challenges/e07.md)
-2. [Ascending and Descending Numbers](./challenges/e06.md)
+1. [Multiplication Tables with For](./challenges/e06.md)
+2. [Ascending and Descending Numbers](./challenges/e07.md)
 3. [Greetings](./challenges/e08.md)
 
 ## Week links 🔗
