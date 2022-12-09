@@ -25,3 +25,4 @@ I'm a focused, responsible, and perseverant person. I love to learn and solve pr
 ## Index
 - Week 1: [Algorithms](src/week-01)
 - Week 2: [Pseudocode](src/week-02)
+- Week 3: [Pseudocode](src/week-03)
