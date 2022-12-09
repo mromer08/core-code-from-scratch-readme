@@ -16,23 +16,23 @@
 ## Week challenges 💻
 ### Monday
 
-1. [Simple calculator](./challenges/e00)
-2. [Special number](./challenges/e01)
+1. [Simple calculator](./challenges/e00.md)
+2. [Special number](./challenges/e01.md)
 
 ### Tuesday
 
-1. [Simple calculator with Switch](./challenges/e02)
-2. [Multi Option Program](./challenges/e03)
+1. [Simple calculator with Switch](./challenges/e02.md)
+2. [Multi Option Program](./challenges/e03.md)
 
 ### Wednesday
 
-1. [Multiplication Tables](./challenges/e04)
-2. [Simple Calculator with Do While](./challenges/e05)
+1. [Multiplication Tables](./challenges/e04.md)
+2. [Simple Calculator with Do While](./challenges/e05.md)
 
 ### Thursday
-1. [Multiplication Tables with For](./challenges/e07)
-2. [Ascending and Descending Numbers](./challenges/e06)
-3. [Greetings](./challenges/e08)
+1. [Multiplication Tables with For](./challenges/e07.md)
+2. [Ascending and Descending Numbers](./challenges/e06.md)
+3. [Greetings](./challenges/e08.md)
 
 ## Week links 🔗
 
