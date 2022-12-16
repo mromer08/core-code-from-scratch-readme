@@ -6,9 +6,9 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
 
 ## Index
 - Week 1: [Algorithms](src/week-01)
-- Week 2: [Pseudocode](src/week-02)
-- Week 3: [Pseudocode](src/week-03)
-- Week 4: [Pseudocode](src/week-04)
+- Week 2: [Pseudocode - Basics](src/week-02)
+- Week 3: [Pseudocode - Control Structures](src/week-03)
+- Week 4: [Pseudocode - Functions](src/week-04)
 
 ## My mission statement
 
