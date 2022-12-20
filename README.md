@@ -9,7 +9,8 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
 - Week 2: [Pseudocode - Basics](src/week-02)
 - Week 3: [Pseudocode - Control Structures](src/week-03)
 - Week 4: [Pseudocode - Functions](src/week-04)
+- Week 5: [Pseudocode & Intro to JS](src/week-05)
 
 ## My mission statement
 
-> I'm Manuel, a backend developer and engineering student. I've been developing Rest API at college using Java and SpringBoot. I’m looking forward to grow as a developer. I'd like to be a Fullstack developer, learn about UI/UA Design, fronted and backend frameworks. I'm a focused, responsible, and perseverant person. I love to learn and solve problems.
+> I'm Manuel, a backend developer and engineering student. I've been developing Rest API at college using Java and SpringBoot. I’m looking forward to grow as a developer. I'd like to be a Fullstack developer, learn about UI/UX Design, fronted and backend frameworks. I'm a focused, responsible, and perseverant person. I love to learn and solve problems.
