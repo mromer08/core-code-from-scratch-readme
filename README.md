@@ -5,12 +5,12 @@
 This is a compilation of notes and challeges made during the [Core-Code](https://www.core-code.io "Core-Code") Bootcamp: Software Dev. Fundamentals
 
 ## Index
-- Week 1: [Algorithms](src/week-01)
-- Week 2: [Pseudocode - Basics](src/week-02)
-- Week 3: [Pseudocode - Control Structures](src/week-03)
-- Week 4: [Pseudocode - Functions](src/week-04)
-- Week 5: [Pseudocode & Intro to JS](src/week-05)
-
-## My mission statement
-
-> I'm Manuel, a backend developer and engineering student. I've been developing Rest API at college using Java and SpringBoot. I’m looking forward to grow as a developer. I'd like to be a Fullstack developer, learn about UI/UX Design, fronted and backend frameworks. I'm a focused, responsible, and perseverant person. I love to learn and solve problems.
+- Funtamental guide Challenges
+    - Week 1: [Algorithms](src/week-01)
+    - Week 2: [Pseudocode - Basics](src/week-02)
+    - Week 3: [Pseudocode - Control Structures](src/week-03)
+    - Week 4: [Pseudocode - Functions](src/week-04)
+    - Week 5: [Pseudocode & Intro to JS](src/week-05)
+- Core Code Boost Challenges
+    - [My mission statement](src/corecode-boost-challenges/mission-statement.md)
+    - [Mock Interviews](src/corecode-boost-challenges/mock-interview.md)
