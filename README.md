@@ -11,6 +11,7 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
     - Week 3: [Pseudocode - Control Structures](src/devguide-challenges/week-03)
     - Week 4: [Pseudocode - Functions](src/devguide-challenges/week-04)
     - Week 5: [Pseudocode & Intro to JS](src/devguide-challenges/week-05)
+    - Week 6: [Javascript](src/devguide-challenges/week-06)
 - Core Code Boost Challenges
     - [My mission statement](src/corecode-boost-challenges/mission-statement.md)
     - [Mock Interviews](src/corecode-boost-challenges/mock-interview.md)
