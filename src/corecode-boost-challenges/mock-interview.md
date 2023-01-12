@@ -36,6 +36,7 @@
     2. Check LinkedIn company employees career growth, add them as friends!
     3. What you validate and celebrate of the company
 
+> Telus International is a Canadian based company that provides customer service, IT, and business process outsourcing solutions to clients globally. They have a strong reputation for delivering high-quality services and have been in the industry for over 20 years.
 
 7. **Why are you interested in this position? (1-2 sentences)**
     1. Mention how you can you add value to a team in X position
@@ -50,16 +51,26 @@
     3. Related to the product, user, company-oriented
     4. Successful projects in a technology that interest the company
     5. Good learner - fast learner - self-taught - proactive learner
+
+> I am an ideal candidate for this position as I have experience in software development, specifically in technologies that align with the company's current projects. Additionally, I possess strong problem-solving skills and am able to think creatively to find unique solutions to challenges. I am also a proactive learner and am constantly seeking out opportunities to improve my skills and knowledge. This combination of experience, skills, and a strong desire to learn and grow make me a valuable asset to the team.
+
 9. **What is your biggest strength? (1-2 sentences)**
+> My biggest strength is my strong problem-solving skills and ability to think creatively. I'm also a good studing because I love to learn.
 10. **What is your biggest flaw - weakness? (1-2 sentences)**
     1. Opportunity of growth
     2. Mention how you’re dealing with it or overcoming it, actions are taken, improvement signs
+
+> My biggest flaw is my lack of professional experience in the industry. However, I see this as an opportunity for growth and am actively working to gain more experience through self-study, online courses and participating in personal projects. I am also seeking feedback from more experienced developers in order to improve my skills and knowledge.
+
 11. **How much salary do you expect?**
     1. Have the $ and Q numbers just in case
     2. Give a range so you can stay open for negotiations (50$-100$)
         1. The first number is the minimum you would accept
         2. Second number is aspirational, more than you expect
-    3. Based on what you need, or your experience, market and company research on open offerings online, consider that you can start low and then grow at some companies 
+    3. Based on what you need, or your experience, market and company research on open offerings online, consider that you can start low and then grow at some companies
+
+    > $900 - $1500
+    > Q7000 - $ Q1000
 12. **Do you have any questions for me?**
     1. Suggestions
         1. How does growth inside the company?
@@ -67,3 +78,10 @@
         3. How have you experienced the culture at this company as an employee?
         4. Do employees have resources available for growth from the company?
         5. How will you evaluate my performance?
+```
+Can you tell me more about the opportunities for growth within the company?
+What specific skills and qualities do you look for in the ideal candidate for this position?
+How would you describe the company culture and how have you experienced it as an employee?
+Are there any resources or programs offered by the company for employee development and professional growth?
+How will my performance be evaluated and are there any specific metrics or goals I should be aware of?
+```
