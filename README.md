@@ -13,6 +13,7 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
     - Week 5: [Pseudocode & Intro to JS](src/devguide-challenges/week-05)
     - Week 6: [Javascript](src/devguide-challenges/week-06)
     - Week 7: [Javascript](src/devguide-challenges/week-07)
+    - Week 7: [Javascript](src/devguide-challenges/week-08)
 - Core Code Boost Challenges
     - [My mission statement](src/corecode-boost-challenges/mission-statement.md)
     - [Mock Interviews](src/corecode-boost-challenges/mock-interview.md)
