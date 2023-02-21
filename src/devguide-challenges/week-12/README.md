@@ -34,24 +34,24 @@
 
 ## Week Challenges (Tuesday) 🐣
 
-0. [Node.JS Core Understanding](./challenges/e01.md) Learning Exercise 🧠
-1. [Node.JS Module System Core Understanding](./challenges/e02.md) Learning Exercise 🧠
-2. [Node.JS Hello World! 🌐](./challenges/e03.md) Practice 💻
-3. [Node.JS Module System](./challenges/e04.md) Practice 💻
+0. [Node.JS Core Understanding](./challenges/e00.md) Learning Exercise 🧠
+1. [Node.JS Module System Core Understanding](./challenges/e01.md) Learning Exercise 🧠
+2. [Node.JS Hello World! 🌐](./challenges/e02.md) Practice 💻
+3. [Node.JS Module System](./challenges/e03.md) Practice 💻
 
 ## Week Challenges (Wednesday) 🐤
 
-0. [Client-Server Model](./challenges/e05.md) Learning Exercise 🧠
-1. [HTTP Core Understanding](./challenges/e06.md) Learning Exercise 🧠
-2. [APIs Core Understanding](./challenges/e07.md) Learning Exercise 🧠
-3. [From JSON to REST](./challenges/e08.md) Learning Exercise 🧠
-4. [REST API Clients](./challenges/e09.md) Learning Exercise 🧠
+0. [Client-Server Model](./challenges/e04.md) Learning Exercise 🧠
+1. [HTTP Core Understanding](./challenges/e05.md) Learning Exercise 🧠
+2. [APIs Core Understanding](./challenges/e06.md) Learning Exercise 🧠
+3. [From JSON to REST](./challenges/e07.md) Learning Exercise 🧠
+4. [REST API Clients](./challenges/e08.md) Learning Exercise 🧠
 
 ## Week challenges (Thursday) 💻🐔
 
-0. [Express.JS Core Understanding](./challenges/e10.md) Learning Exercise 🧠
-1. [Forrest Gump Ping-Pong API 🏓](./challenges/e11.md) Practice 💻
-2. [Delayed Response API ⏳](./challenges/e12.md) Practice 💻
+0. [Express.JS Core Understanding](./challenges/e09.md) Learning Exercise 🧠
+1. [Forrest Gump Ping-Pong API 🏓](./challenges/e10.md) Practice 💻
+2. [Delayed Response API ⏳](./challenges/e11.md) Practice 💻
 
 ## StandUp Examples 🔗
 
