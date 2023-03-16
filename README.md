@@ -23,3 +23,6 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
 - Core Code Boost Challenges
     - [My mission statement](src/corecode-boost-challenges/mission-statement.md)
     - [Mock Interviews](src/corecode-boost-challenges/mock-interview.md)
+
+## Project
+My to-do app is over [here](https://github.com/mromer08/todo-app.git)
