@@ -16,6 +16,10 @@ This is a compilation of notes and challeges made during the [Core-Code](https:/
     - Week 8: [Javascript](src/devguide-challenges/week-08)
     - Week 9: [Javascript](src/devguide-challenges/week-09)
     - Week 10: [Javascript](src/devguide-challenges/week-10)
+    - Week 11: [Javascript](src/devguide-challenges/week-11)
+    - Week 12: [Javascript](src/devguide-challenges/week-12)
+    - Week 13: [Javascript](src/devguide-challenges/week-13)
+    - Week 14: [Javascript](src/devguide-challenges/week-14)
 - Core Code Boost Challenges
     - [My mission statement](src/corecode-boost-challenges/mission-statement.md)
     - [Mock Interviews](src/corecode-boost-challenges/mock-interview.md)
